@@ -1,0 +1,38 @@
+<script type="text/javascript" src="http://content.jwplatform.com/libraries/IDzF9Zmk.js"></script>
+<script type="text/javascript">jwplayer.key="Khpp2dHxlBJHC8MCmLnBuV2jK/DwDnJMniwF6EO9HC/riJ712ZmbHg==";</script>
+
+
+
+<div id="wgtutoriales"></div>
+<script type="text/javascript">
+       var player = jwplayer("wgtutoriales");
+       player.setup({
+        sources: [{"label":"SD","type":"video\/mp4","file":"https://onedrive.live.com/download?cid=949490D986774694&resid=949490D986774694%21111&authkey=AEQM979OV6n06c0"}],
+        aspectratio: "16:9",
+        startparam: "start",
+        primary: "html5",
+        preload: "auto",
+        image: "",
+           captions: {
+               color: "#f3f368",
+               fontSize: 16,
+               backgroundOpacity: 0,
+               fontfamily: "Helvetica",
+               edgeStyle: "raised"
+           },
+           tracks: [{ 
+               file: "", 
+               label: "English",
+               kind: "captions",
+               "default": true 
+           }]
+       });
+      </script>
+
+https://onedrive.live.com/download?cid=949490D986774694&resid=949490D986774694%21111&authkey=AEQM979OV6n06c0
+
+
+
+https://onedrive.live.com/download?cid=949490D986774694&resid=949490D986774694%21111&authkey=AEQM979OV6n06c0
+
+https://onedrive.live.com/embed?cid=126C973B282483C8&resid=126C973B282483C8%212360&authkey=ANF3_6NPnk2GwDI
